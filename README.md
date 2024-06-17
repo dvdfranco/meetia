@@ -37,11 +37,10 @@ Esta é a aplicação.. do Frontend... escrito em React (duh). \
 Escrita utilizando as bibliotecas VITE, PRIMEREACT e CHATSCOPE. \
 Antes de usar, não esqueça de configurar o arquivo .env, com as suas API KEYs da Gladia e Azure, etc. \
 Depois, utilizar os comandos:
-- yarn install
-- yarn start
+- npm install
+- npm start
 
-E o NPM? Sei lá, eu criei tudo com yarn. Desculpa aí.\
-...Docker? Foi mal, eu nunca soube direito como configurar/disponibilizar uma imagem pra facilitar a sua vida. Prometo que se aprender, eu atualizo esse repo. Ou não.
+...Não roda tudo no Docker? Foi mal, eu nunca soube direito como configurar/disponibilizar uma imagem pra facilitar a sua vida. Prometo que se aprender, eu atualizo esse repo. Ou não.
 
 ## Resumindo tudo
 
@@ -54,8 +53,8 @@ E o NPM? Sei lá, eu criei tudo com yarn. Desculpa aí.\
 1. Revise as configurações no arquivo .env
 1. Abra o terminal no diretório meetia-front
 1. Rode:
-  - yarn install
-  - yarn run 
+  - npm install
+  - npm run 
 
 ## Utilizando o sistema:
 
